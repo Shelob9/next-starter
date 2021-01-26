@@ -9,10 +9,7 @@ export default class Document extends NextDocument {
   render() {
     return (
       <Html lang="en">
-        <Head >
-            <title>Name of application</title>
-            <link rel="icon" href="/favicon.ico" />
-        </Head>
+        <Head />
         <body>
           <Main />
           <NextScript />
