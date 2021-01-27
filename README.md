@@ -1,8 +1,9 @@
 # Next Starter With Tailwind And TypeScript
 
+[Josh](https://joshpress.net)'s prefered NextJS + Tailwind + TypeScript start point. Includes TailwindCSS plugins and some CSS I like to use.
+
 ![Tests](https://github.com/Shelob9/next-starter/workflows/Tests/badge.svg)
 
-Includes TailwindCSS plugins and some CSS I like to use.
 ## Development
 
 - Install
