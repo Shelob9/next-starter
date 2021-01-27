@@ -1,6 +1,12 @@
-# Next.js + Tailwind CSS Example
+# Next Starter With Tailwind And TypeScript
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Development
+
+- Install
+  - `git clone `
+  - `yarn`
+- Start
+  - `yarn dev`
 
 ## Deploy your own
 
