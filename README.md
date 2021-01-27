@@ -7,6 +7,10 @@
   - `yarn`
 - Start
   - `yarn dev`
+- Test
+  - `yarn test`
+  - `yarn test --watch`
+  - `yarn test --ci`
 
 ## Deploy your own
 
